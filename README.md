@@ -1,7 +1,7 @@
 # 番茄成熟度辨識模型_分級3類
 ## tomato-ripeness-detector-base-on-two-stage
 此模型能夠將照片中的番茄自動辨識出來  
-並且分成兩種，成熟、微熟與未熟
+並且分成三種，成熟、微熟與未熟
 
 電腦需求: 需配有Nvidia 顯卡，並已安裝cuda、anaconda  
 輸入: 照片  
